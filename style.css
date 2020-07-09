@@ -38,18 +38,20 @@ span{
   }
   .bottom{
       background-size: unset;
-      background-color: #06050e;
+      background-color: #242724;
       margin-bottom: 0px;
       padding:30px 30px;
      }
 .color{
     color:white;
+    padding-top: 20px;
 }
 ul {
     list-style-type: none;
-}
+    margin: 20px 0;
+    }
 footer{
     padding-top: 30px;
-    color:white;
+    color:rgb(235, 227, 227);
     text-align: center;
 }
